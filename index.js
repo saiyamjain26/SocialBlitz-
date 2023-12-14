@@ -24,8 +24,8 @@ const createPost = (content, imageURL) => {
         <img src="./images/profile-1.jpg">
     </div>
     <div class="info">
-        <h3>Aryan bajpai</h3>
-        <small>Kanpur, Just Now</small>
+        <h3>Saiyam Jain</h3>
+        <small>Lucknow, Just Now</small>
     </div>
     <span class="edit">
         <i class="uil uil-ellipsis-h"></i>
@@ -51,7 +51,7 @@ const createPost = (content, imageURL) => {
     <p>Liked by <b>Aniket Singh</b> and <b>2, 23 others</b></p>
 </div>
 <div class="caption">
-    <p><b>Aryan Bajpai</b> ${content} <span class="harsh-tag">#lifestyle</span></p>
+    <p><b>Saiyam Jain</b> ${content} <span class="harsh-tag">#lifestyle</span></p>
 </div>
 <div class="comments text-muted">
     View all 17 comments
